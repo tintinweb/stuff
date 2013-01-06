@@ -15,14 +15,20 @@ Plot binary images based on a list of decimal values
     print "-- done --"
     
 
-Prints this neat picture:
-
-![BinaryPlot1](https://github.com/tintinweb/stuff/raw/master/BinaryPlotter/primes_upto1024.png "BinaryPlot of Primes up to 256")   
-
-![BinaryPlot2](https://github.com/tintinweb/stuff/raw/master/BinaryPlotter/primes_14bit.png "14 Bit primes binary plot")  
-
- 
 Dependencies
 -------------
 
 Python PIL - http://www.pythonware.com/products/pil/
+
+
+Examples:
+---------
+
+primes up to 10 bits:
+![BinaryPlot1](https://github.com/tintinweb/stuff/raw/master/BinaryPlotter/primes_upto1024.png "BinaryPlot of Primes up to 1024")   
+
+primes up to 14 bits:
+![BinaryPlot2](https://github.com/tintinweb/stuff/raw/master/BinaryPlotter/primes_14bit.png "14 Bit primes binary plot")  
+
+ 
+
