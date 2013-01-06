@@ -3,6 +3,8 @@ BinaryPlotter
 
 Plot binary images based on a list of decimal values
 
+    # define a colorscheme by passing colorscheme={'0':(R,G,B),'1':(R,G,B),None:(R,G,B)} 
+    # None = default background color; default scheme = 0=black, 1=white, default=Grey
     b = BinaryPlotter()
     # print all primes from 1 to 2^16 (each prime is one row in the binary image, MSB left)
     # optionally save it as test1.png
