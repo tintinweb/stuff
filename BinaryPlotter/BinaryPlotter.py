@@ -89,6 +89,6 @@ def primes(n,low=1):
 
 if __name__=="__main__":
     b = BinaryPlotter()
-    b.paint ( primes(2**10) ,filename="primes_upto1024.png" )
+    b.paint ( primes(2**14) ,filename="primes_14bit.png" )
     b.getImage().show()
     print "-- done --"
