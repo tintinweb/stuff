@@ -15,7 +15,7 @@ Plot binary images based on a list of decimal values
 
 Prints this neat picture:
 
-![BinaryPlot1]primes_upto1024.png "BinaryPlot of Primes up to 256")   
+![BinaryPlot1](https://github.com/tintinweb/stuff/raw/master/BinaryPlotter/primes_upto1024.png "BinaryPlot of Primes up to 256")   
  
 Dependencies
 -------------
